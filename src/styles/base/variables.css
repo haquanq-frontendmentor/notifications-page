@@ -1,0 +1,35 @@
+:root {
+    --color-red: hsl(1, 90%, 64%);
+    --color-blue-300: hsl(219, 85%, 36%);
+    --color-blue-500: hsl(219, 85%, 26%);
+    --color-white: hsl(0, 0%, 100%);
+
+    --color-gray-50: hsl(210, 60%, 98%);
+    --color-gray-75: hsl(211, 68%, 94%);
+    --color-gray-100: hsl(205, 33%, 90%);
+
+    --color-gray-400: hsl(219, 14%, 63%);
+    --color-gray-500: hsl(219, 12%, 42%);
+    --color-gray-900: hsl(224, 21%, 14%);
+
+    --font-primary: "Plus Jakarta Sans", sans-serif;
+    --font-medium: 500;
+    --font-extrabold: 800;
+
+    --text-sm: 0.9375rem;
+    --text-base: 1rem;
+    --text-md: 1.25rem;
+
+    --leading-none: 1;
+
+    --rounded-sm: 0.375rem;
+    --rounded-base: 0.5rem;
+    --rounded-full: 9999px;
+
+    --focus-outline-offset: 2px;
+    --focus-outline-width: 2px;
+    --focus-outline-color: var(--color-blue-500);
+    --focus-outline-style: dashed;
+}
+
+@custom-media --mobile (min-width: 40em);

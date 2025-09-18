@@ -1,0 +1,18 @@
+@import "./base/fonts.css";
+@import "./base/variables.css";
+@import "./base/reset.css";
+
+@import "./components/notifications.css";
+
+@import "./utils/a11y.css";
+
+.main {
+    background-color: #f9fafe;
+    color: var(--color-gray-500);
+
+    @media (--mobile) {
+        padding-top: 3.9375rem;
+        padding-bottom: 5.5625rem;
+        font-size: var(--text-base);
+    }
+}
