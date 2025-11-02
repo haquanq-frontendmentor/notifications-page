@@ -1,0 +1,15 @@
+{
+  "name": "Notifications Page",
+  "featured": false,
+  "colors:": {
+    "brand": "#08327E"
+  },
+  "images": {
+    "preview": "https://raw.githubusercontent.com/haquanq-frontendmentor/notifications-page/main/docs/preview.jpg"
+  },
+  "frontendmentor": {
+    "difficulty": "junior",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC",
+    "solutionUrl": "https://www.frontendmentor.io/solutions/responsive-notifications-page-w-css-flexbox---js-gxOfqj8Xoa"
+  }
+}
